@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ![logo](https://github.com/Prashant-maurya701/Prashant-maurya701/blob/main/Code%20with%20prashant.png)
+ ![logo](https://github.com/Prashant-maurya701/Prashant-maurya701/blob/main/Code%20with%20prashant.pn)
 <h1 align="center">Hi 👋, I'm Prashant Maurya</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/2897cafa-336c-4119-921b-fd0c5b5fc90c">
